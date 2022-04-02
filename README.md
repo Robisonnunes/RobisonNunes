@@ -1,5 +1,13 @@
 ### Hi, I'm Robison
 
+I am a Data Driven Professional, for the last 4 years I have been helping companies in 3 different industries, I am specialized, to solve critical problems with data analysis, Business Intelligence and machine learning models. 
+
+I contributed to financial planning, supported several clients as a BI consultant, I helped the company with machine learning , offering solutions to issues such as, chargeback, credit hate and fraud prevention.
+
+Stack:
+
+💻:	Python, R, SQL, PowerBi, Excel, Git
+
 ```mermaid
 
 gantt
@@ -17,6 +25,7 @@ Cizi                  :active,, 2021-10-15,2022-04-01
 
 <div> 
   <a href="https://www.linkedin.com/in/robison-nunes-dos-santos/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+   <a href="https://https://medium.com/@robison.docs" target="_blank"><img src="https://img.shields.io/badge/-@robison.docs-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@robison.docs/)" target="_blank"></a>
 </div>
 
 ## Professional Experience
