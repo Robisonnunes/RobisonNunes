@@ -18,7 +18,7 @@ Here are some ideas to get you started:
   <a href="https://www.linkedin.com/in/robison-nunes-dos-santos/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
-## Atuação profissional
+## Professional Experience
 
 🏦: Data Scientist - Cizi (10.2021 - Atual)
 
