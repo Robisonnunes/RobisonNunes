@@ -25,7 +25,7 @@ Cizi                  :active,, 2021-10-15,2022-04-01
 
 <div> 
   <a href="https://www.linkedin.com/in/robison-nunes-dos-santos/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-   <a href="https://https://medium.com/@robison.docs" target="_blank"><img src="https://img.shields.io/badge/-@robison.docs-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@robison.docs" target="_blank"></a>
+   <a href="https://medium.com/@robison.docs" target="_blank"><img src="https://img.shields.io/badge/-@robison.docs-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@robison.docs" target="_blank"></a>
 </div>
 
 ## Professional Experience
