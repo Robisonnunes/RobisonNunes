@@ -4,18 +4,13 @@
 
 gantt
 dateFormat  YYYY-MM-DD
-title My Timeline
+title Professional Timeline
 
 section Carreira
-Tapps Games           :active,, 2016-11-01,2017-04-01
-SAS Institute         :active,, 2017-04-01,2018-08-01
-Grupo Boticário       :active,, 2018-08-01,2019-11-01
-Via Varejo            :active,, 2019-11-01,2021-01-01
-Gamers Club           :active,, 2021-03-01,2022-03-01
-
-section Professor
-Téo Me Why            :active,, 2019-08-01,2022-03-01
-ASN.Rocks             :active,, 2020-06-01,2022-03-01
+Cimentos Aparecida    :active,, 2012-10-01,2018-03-10
+Wam Hotéis            :active,, 2018-03-13,2021-04-30
+Psa Consultoria       :active,, 2021-05-03,2021-10-12
+Cizi                  :active,, 2021-10-15,2022-04-01
 
 
 ```
