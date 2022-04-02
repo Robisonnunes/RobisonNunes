@@ -6,7 +6,14 @@ I contributed to financial planning, supported several clients as a BI consultan
 
 Stack:
 
-💻:	Python, R, SQL, PowerBi, Excel, Git
+![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
+![R](https://img.shields.io/badge/-R-black?style=flat-square&logo=R)
+![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql)
+![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
+![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku)
+![Excel](https://img.shields.io/badge/-Excel-black?style=flat-square&logo=Excel)
 
 ```mermaid
 
@@ -45,3 +52,9 @@ Cizi                  :active,, 2021-10-15,2022-04-01
 :newspaper_roll: MBA Business Management, Controllership and Corporate Finance IPOG -Brazil (2017- 2019) 
 
 :newspaper_roll: Bachelor Business Administration, PUC-Goiás - Brazil (2007-2011) 
+
+## ⚡ GitHub Stats
+
+![Github Stats](https://github-readme-stats.vercel.app/api?username=Robisonnunes&show_icons=true&count_private=true&show_icons=true&include_all_commits=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Robisonnunes&hide=TeX&layout=compact)
+
