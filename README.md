@@ -22,10 +22,10 @@ dateFormat  YYYY-MM-DD
 title Professional Timeline
 
 section Carreira
-Cimentos Aparecida    :active,, 2012-10-01,2018-03-10
-Wam Hotéis            :active,, 2018-03-13,2021-04-30
-Psa Consultoria       :active,, 2021-05-03,2021-10-12
-Cizi                  :active,, 2021-10-15,2022-04-01
+Cimentos Aparecida    :2012-10-01,2018-03-10
+Wam Hotéis            :2018-03-13,2021-04-30
+Psa Consultoria       :2021-05-03,2021-10-12
+Cizi                  :crit,2021-10-15,2022-05-01
 
 
 ```
