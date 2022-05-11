@@ -6,14 +6,11 @@ I contributed to financial planning, supported several clients as a BI consultan
 
 Stack:
 
-![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 ![R](https://img.shields.io/badge/-R-black?style=flat-square&logo=R)
-![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql)
-![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
 ![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku)
 ![Excel](https://img.shields.io/badge/-Excel-black?style=flat-square&logo=Excel)
+<p align="left"> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a>
+
 
 ```mermaid
 
@@ -29,11 +26,6 @@ Cizi                  :crit,2021-10-15,2022-05-01
 
 
 ```
-
-<div> 
-  <a href="https://www.linkedin.com/in/robison-nunes-dos-santos/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-   <a href="https://medium.com/@robison.docs" target="_blank"><img src="https://img.shields.io/badge/-@robison.docs-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@robison.docs" target="_blank"></a>
-</div>
 
 ## Professional Experience
 
@@ -52,6 +44,15 @@ Cizi                  :crit,2021-10-15,2022-05-01
 :newspaper_roll: MBA Business Management, Controllership and Corporate Finance IPOG -Brazil (2017- 2019) 
 
 :newspaper_roll: Bachelor Business Administration, PUC-Goiás - Brazil (2007-2011) 
+
+## Connect With Me
+  
+<a href="https://linkedin.com/in/robison-nunes-dos-santos/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="robison-nunes-dos-santos/" height="30" width="40" /></a>
+<a href="https://medium.com/@robison.docs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@robison.docs" height="30" width="40" /></a>
+</p>
+Email:
+robison.nunes@outlook.com  
+
 
 ## ⚡ GitHub Stats
 
