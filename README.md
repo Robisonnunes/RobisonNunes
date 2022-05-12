@@ -29,7 +29,7 @@ Cizi                  :crit,2021-10-15,2022-05-01
 
 ## Professional Experience
 
-🏦: Data Scientist - Cizi (10.2021 - Atual)
+🏦: Data Scientist - Cizi (10.2021 - Current)
 
 💻:	Bussiness Intelligence Consultant (05.2021 - 10.2021)
 
