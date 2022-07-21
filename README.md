@@ -23,17 +23,19 @@ Cimentos Aparecida    :2012-10-01,2018-03-10
 Wam Hotéis            :2018-03-13,2021-04-30
 Psa Consultoria       :2021-05-03,2021-10-12
 Vortex                :2021-10-15,2022-05-19
-Vortex                :crit,2022-07-01,2022-08-15
+Tata Consultancy Services :crit,2022-07-01,2022-08-15
 
 ```
 
 ## Professional Experience
 
-🏦: Data Scientist - Cizi (10.2021 - Current)
+🏦: Data Specilist - Tata Consultancy Services (10.2021 - Current)  
+
+🏦: Data Scientist - Cizi (10.2021 - 05-2022)
 
 💻:	Bussiness Intelligence Consultant (05.2021 - 10.2021)
 
-🏨:	Data Analyst - WAM Hotéis (03.2018 - 04.2021)
+🏨:		Bussiness Intelligence Developer - WAM Hotéis (03.2018 - 04.2021)
 
 🖥️: Administrative Manager	 (10.2012 - 03.2018)
 
