@@ -22,8 +22,8 @@ section Carreira
 Cimentos Aparecida    :2012-10-01,2018-03-10
 Wam Hotéis            :2018-03-13,2021-04-30
 Psa Consultoria       :2021-05-03,2021-10-12
-Cizi                  :crit,2021-10-15,2022-05-01
-
+Vortex                :2021-10-15,2022-05-19
+Vortex                :crit,2022-07-01,2022-08-15
 
 ```
 
