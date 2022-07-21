@@ -29,7 +29,7 @@ Tata Consultancy Services :crit,2022-07-01,2022-08-15
 
 ## Professional Experience
 
-🏦: Data Specilist - Tata Consultancy Services (10.2021 - Current)  
+🏦: Data Specialist - Tata Consultancy Services (10.2021 - Current)  
 
 🏦: Data Scientist - Cizi (10.2021 - 05-2022)
 
