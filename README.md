@@ -29,7 +29,7 @@ Tata Consultancy Services :crit,2022-07-01,2023-04-01
 
 ## Professional Experience
 
-💻:	Bussiness Intelligence Consultant - Tata Consultancy Services (10.2021 - Current)  
+💻:	Bussiness Intelligence Consultant - Tata Consultancy Services (07.2022 - Current)  
 
 🏦: Data Scientist - Cizi (10.2021 - 05-2022)
 
