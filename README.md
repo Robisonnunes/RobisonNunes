@@ -33,7 +33,7 @@ Tata Consultancy Services :crit,2022-07-01,2023-04-01
 
 🏦: Data Scientist - Cizi (10.2021 - 05-2022)
 
-💻:	Bussiness Intelligence Consultant (05.2021 - 10.2021)
+💻:	Bussiness Intelligence Consultant - Psa Consultoria (05.2021 - 10.2021)
 
 🖥️:	Bussiness Intelligence Developer - WAM Hotéis (03.2018 - 04.2021)
 
