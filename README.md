@@ -1,6 +1,6 @@
 ### Hi, I'm Robison
 
-I am a Data Driven Professional, for the last 4 years I have been helping companies in 3 different industries, I am specialized, to solve critical problems with data analysis, Business Intelligence and machine learning models. 
+I am a Data Driven Professional, for the last 10 years I have been helping companies in 3 different industries, I am specialized, to solve critical problems with data analysis, Business Intelligence and machine learning models. 
 
 I contributed to financial planning, supported several clients as a BI consultant, I helped the company with machine learning (suṕervisioned/unsupervisioned Alogritms) , offering solutions to issues such as, chargeback, credit hate and fraud prevention.
 
