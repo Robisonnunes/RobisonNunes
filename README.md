@@ -29,15 +29,15 @@ Tata Consultancy Services :crit,2022-07-01,2023-04-01
 
 ## Professional Experience
 
-🏦: Bussiness Intelligence Specialist - Tata Consultancy Services (10.2021 - Current)  
+💻:	Bussiness Intelligence Consultant - Tata Consultancy Services (10.2021 - Current)  
 
 🏦: Data Scientist - Cizi (10.2021 - 05-2022)
 
 💻:	Bussiness Intelligence Consultant (05.2021 - 10.2021)
 
-🏨:		Bussiness Intelligence Developer - WAM Hotéis (03.2018 - 04.2021)
+🖥️:	Bussiness Intelligence Developer - WAM Hotéis (03.2018 - 04.2021)
 
-🖥️: Administrative Manager	 (10.2012 - 03.2018)
+🖥️: Bussiness Intelligence Developer	 (10.2012 - 03.2018)
 
 ## Academic Background 
 
