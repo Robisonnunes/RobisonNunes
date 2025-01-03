@@ -1,8 +1,6 @@
 ### Hi, I'm Robison
 
-I am a Data Driven Professional, for the last 10 years I have been helping companies in 3 different industries, I am specialized, to solve critical problems with data analysis, Business Intelligence and machine learning models. 
-
-I contributed to financial planning, supported several clients as a BI consultant, I helped the company with machine learning (suṕervisioned/unsupervisioned Alogritms) , offering solutions to issues such as, chargeback, credit hate and fraud prevention.
+I have over 10 years of experience working with data in the fields of Data Engineering and Business Intelligence. I am a specialist in workloads and ETL operations, both on-premises and cloud providers, with extensive experience in data warehouses and dashboard development. My focus is transforming unstructured data into strategic assets that deliver business value, always ensuring clear and direct communication, especially for non-technical audiences. 
 
 Stack:
 
