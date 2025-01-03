@@ -23,17 +23,19 @@ Cimentos Aparecida    :2012-10-01,2018-03-10
 Wam Hotéis            :2018-03-13,2021-04-30
 Psa Consultoria       :2021-05-03,2021-10-12
 Vortex                :2021-10-15,2022-05-19
-Tata Consultancy Services :crit,2022-07-01,2023-04-01
-
+Tata Consultancy Services :2022-07-01,2023-04-01
+Tata Consultancy Services :crit,2023-04-06,2025-03-31
 ```
 
 ## Professional Experience
 
-💻:	Bussiness Intelligence Consultant - Tata Consultancy Services (07.2022 - Current)  
+💻:	Data Engineer - Redit (Sonae Group) (04.2023 - 03.2025)  
+
+💻:	Bussiness Intelligence Developer - Tata Consultancy Services (07.2022 - 03.2023)  
 
 🏦: Data Scientist - Cizi (10.2021 - 05-2022)
 
-💻:	Bussiness Intelligence Consultant - Psa Consultoria (05.2021 - 10.2021)
+💻:	Bussiness Intelligence Developer - Psa Consultoria (05.2021 - 10.2021)
 
 🖥️:	Bussiness Intelligence Developer - WAM Hotéis (03.2018 - 04.2021)
 
