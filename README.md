@@ -24,7 +24,7 @@ Wam Hotéis            :2018-03-13,2021-04-30
 Psa Consultoria       :2021-05-03,2021-10-12
 Vortex                :2021-10-15,2022-05-19
 Tata Consultancy Services :2022-07-01,2023-04-01
-Tata Consultancy Services :crit,2023-04-06,2025-03-31
+RedIt :crit,2023-04-06,2025-03-31
 ```
 
 ## Professional Experience
