@@ -1,7 +1,6 @@
 ### Hi, I'm Robison
 
-I have over 10 years of experience working with data in the fields of Data Engineering and Business Intelligence. I am a specialist in workloads and ETL operations, both on-premises and cloud providers, with extensive experience in data warehouses and dashboard development. My focus is transforming unstructured data into strategic assets that deliver business value, always ensuring clear and direct communication, especially for non-technical audiences. 
-
+Engenheiro de dados com mais de 10 anos de experiência em projeto e otimização de pipelines de dados, processos de ETL e arquiteturas escalonáveis em plataformas de nuvem (AWS, Azure) e sistemas locais. Proficiente em tecnologias de big data (Spark, Hadoop), SQL e Python, com experiência em otimização de desempenho e automação. Habilidade na criação de data warehouses e na transformação de dados brutos em insights acionáveis para permitir análises avançadas. Experiência em metodologias ágeis e colaboração eficaz com equipes multifuncionais para alinhar as estratégias de dados às metas comerciais. Adepto da simplificação de conceitos técnicos para partes interessadas não técnicas, gerando valor comercial por meio de soluções de dados inovadoras.
 Stack:
 
 ![R](https://img.shields.io/badge/-R-black?style=flat-square&logo=R)
