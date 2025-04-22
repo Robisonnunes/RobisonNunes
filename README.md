@@ -1,6 +1,6 @@
 ### Hi, I'm Robison
 
-Engenheiro de dados com mais de 12 anos de experiência em projeto e otimização de pipelines de dados, processos de ETL e arquiteturas escalonáveis em plataformas de nuvem (AWS, Azure) e sistemas locais. Proficiente em tecnologias de big data (Spark, Hadoop), SQL e Python, com experiência em otimização de desempenho e automação. Habilidade na criação de data warehouses e na transformação de dados brutos em insights acionáveis para permitir análises avançadas. Experiência em metodologias ágeis e colaboração eficaz com equipes multifuncionais para alinhar as estratégias de dados às metas comerciais. Adepto da simplificação de conceitos técnicos para partes interessadas não técnicas, gerando valor comercial por meio de soluções de dados inovadoras.
+Data engineer with over 12 years' experience in designing and optimizing data pipelines, ETL processes and scalable architectures on cloud platforms (AWS, Azure) and on-premises systems. Proficient in big data technologies (Spark, Hadoop), SQL and Python, with experience in performance optimization and automation. Skilled in creating data warehouses and transforming raw data into actionable insights to enable advanced analysis. Experience in agile methodologies and effective collaboration with cross-functional teams to align data strategies with business goals. Adept at simplifying technical concepts for non-technical stakeholders, generating business value through innovative data solutions.
 
 Stack:
 
