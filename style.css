@@ -1,62 +1,130 @@
-/* Custom styles for Slate theme */
+/* Estilo Geral */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f0eeee;
+    color: #070707;
+}
 
+/* Banner */
+.banner {
+    width: 100%;
+    height: 40vh; /* Ocupa toda a altura da viewport */
+    background: url('images/Banner.png') no-repeat center center/cover;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    color: white;
+    
+}
+
+/* Wrapper para Conteúdo Principal */
 .wrapper {
-    max-width: 800px;
-    margin: 0 auto;
-    padding: 0 20px;
+    max-width: 1300px;
+    margin: 5px auto;
+    padding: 2px;
+
 }
 
-.profile-photo {
-    width: 200px;
-    height: 200px;
-    border-radius: 50%;
-    display: block;
-    margin: 20px auto;
-    border: 5px solid #3a3a3a;
-}
-
-header h1 {
-    margin-bottom: 10px;
+/* Header */
+header {
     text-align: center;
+    margin-bottom: 30px;
 }
 
-header p {
-    text-align: center;
-    margin-bottom: 20px;
+
+header .view a {
+    color: #2773a5;
+    text-decoration: none;
+    font-weight: bold;
 }
 
-header .view {
-    margin: 10px 0;
-    text-align: center;
+header .view a:hover {
+    text-decoration: underline;
+    color: #000000;
 }
 
+/* Sessões */
 section h2 {
-    border-bottom: 1px solid #3a3a3a;
-    padding-bottom: 10px;
-    margin-top: 30px;
+    font-size: 1.8em;
+    margin-top: 40px;
+    color: #2773a5;
 }
 
 section h3 {
+    font-size: 1.4em;
     margin-top: 20px;
-    color: #a75c9a;
 }
 
-ul {
-    padding-left: 20px;
-}
-
+/* Rodapé */
 footer {
-    margin-top: 50px;
     text-align: center;
-    border-top: 1px solid #3a3a3a;
-    padding-top: 20px;
+    margin-top: 40px;
+    font-size: 1.0em;
+    color: #030303;
 }
 
-a {
-    color: #a75c9a;
+/* Estilos para projetos */
+.project {
+    margin-bottom: 2rem;
+    padding-bottom: 1.5rem;
+    border-bottom: 1px solid #eee;
 }
 
-a:hover {
-    color: #c77eb7;
-    text-decoration: underline;
+/* Container dos links sociais - NOVO */
+.social-links-container {
+    display: flex;
+    justify-content: center; /* Centraliza horizontalmente */
+    margin: 0 auto;
+    padding: 0.5rem 0;
 }
+
+.social-links {
+    display: inline-flex; /* Mantém os links na mesma linha */
+    gap: 1rem; /* Espaço entre os botões */
+    margin-bottom: 0.1rem;
+}
+
+/* Mantendo seu estilo de link */
+.project-link {
+    display: inline-block;
+    color: #2773a5;
+    font-weight: 600;
+    text-decoration: none;
+    padding: 0.5rem 1rem;
+    border-radius: 4px;
+    border: 2px solid #2773a5;
+    transition: all 0.3s ease;
+    margin-top: 0.5rem;
+}
+
+.project-link:hover {
+    color: white;
+    background-color: #2773a5;
+    transform: translateY(-2px);
+    box-shadow: 0 2px 5px rgba(0,102,204,0.3);
+}
+
+.about-section {
+    margin-top: 0.1rem;
+}
+
+
+/* Opção 3 - Ícone customizado */
+.project-link[target="_blank"]::after {
+    content: "";
+    display: inline-block;
+    width: 12px;
+    height: 12px;
+    margin-left: 4px;
+    background-image: url('data:image/svg+xml;utf8,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="%232773a5"><path d="M19 19H5V5h7V3H5a2 2 0 0 0-2 2v14a2 2 0 0 0 2 2h14c1.1 0 2-.9 2-2v-7h-2v7zM14 3v2h3.6l-9.8 9.8 1.4 1.4L19 6.4V10h2V3h-7z"/></svg>');
+    background-repeat: no-repeat;
+    transition: transform 0.2s ease;
+}
+.project-link:hover[target="_blank"]::after {
+    transform: translate(3px, -3px);
+}
+
