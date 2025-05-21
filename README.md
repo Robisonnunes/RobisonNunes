@@ -50,7 +50,6 @@ RedIt :crit,2023-04-06,2025-03-31
 ## Connect With Me
   
 <a href="https://linkedin.com/in/robison-nunes-dos-santos/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="robison-nunes-dos-santos/" height="30" width="40" /></a>
-<a href="https://medium.com/@robison.docs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@robison.docs" height="30" width="40" /></a>
 </p>
 Email:
 robison.nunes@outlook.com  
