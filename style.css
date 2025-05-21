@@ -1,63 +1,26 @@
-/* Estilo global */
-body {
-    font-family: Arial, sans-serif;
-    margin: 0;
-    padding: 0;
-    color: #333;
-    line-height: 1.6;
-}
-
 header {
-    background: #333;
+    background: #000; /* Fundo preto */
     color: white;
     padding: 2rem 0;
-    text-align: center;
 }
 
 header h1 span {
     color: #ffcc00;
 }
 
-.container {
+.header-container {
+    display: flex; /* Flexbox para alinhar imagem e texto */
+    align-items: center;
+    justify-content: flex-start;
     max-width: 1100px;
     margin: auto;
     padding: 0 2rem;
 }
 
-main {
-    padding: 2rem;
-}
-
-section {
-    margin-bottom: 2rem;
-}
-
-section#about img {
-    max-width: 200px;
-    border-radius: 50%;
-    margin-top: 1rem;
-}
-
-.project {
-    background: #f4f4f4;
-    margin: 1rem 0;
-    padding: 1rem;
-    border-radius: 8px;
-    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
-}
-
-.project h3 {
-    margin: 0 0 0.5rem;
-}
-
-.project a {
-    color: #0077cc;
-    text-decoration: none;
-}
-
-footer {
-    text-align: center;
-    padding: 1rem 0;
-    background: #333;
-    color: white;
+.profile-photo {
+    width: 150px;
+    height: 150px;
+    border-radius: 50%; /* Recorte redondo */
+    margin-right: 20px; /* Espaço entre imagem e texto */
+    border: 3px solid white; /* Borda branca para contraste */
 }
