@@ -1,33 +1,62 @@
-/* Header geral */
-header {
-    background: #b6b4b4; /* Fundo preto */
-    color: rgb(0, 0, 0);
-    padding: 2rem 0;
+/* Custom styles for Slate theme */
+
+.wrapper {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 0 20px;
 }
 
-/* Container flexível para alinhar imagem e texto */
-.header-container {
-    display: flex; /* Flexbox para alinhar itens horizontalmente */
-    align-items: center; /* Alinhar verticalmente ao centro */
-    justify-content: flex-start; /* Texto ao lado da imagem */
-    max-width: 1100px; /* Largura máxima para centralização */
-    margin: auto; /* Centralizar o conteúdo horizontalmente */
-    padding: 0 2rem; /* Espaço interno nas laterais */
-}
-
-/* Estilo da foto de perfil */
 .profile-photo {
-    width: 150px;
-    height: 150px;
-    border-radius: 50%; /* Tornar a imagem redonda */
-    margin-right: 20px; /* Espaço entre imagem e texto */
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    display: block;
+    margin: 20px auto;
+    border: 5px solid #3a3a3a;
 }
 
-/* Texto dentro do header */
-.header-text {
-    flex: 1; /* Permitir que o texto ocupe o espaço restante */
+header h1 {
+    margin-bottom: 10px;
+    text-align: center;
 }
 
-header h1 span {
-    color: #a75c9a; /* Cor destaque do texto */
+header p {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+header .view {
+    margin: 10px 0;
+    text-align: center;
+}
+
+section h2 {
+    border-bottom: 1px solid #3a3a3a;
+    padding-bottom: 10px;
+    margin-top: 30px;
+}
+
+section h3 {
+    margin-top: 20px;
+    color: #a75c9a;
+}
+
+ul {
+    padding-left: 20px;
+}
+
+footer {
+    margin-top: 50px;
+    text-align: center;
+    border-top: 1px solid #3a3a3a;
+    padding-top: 20px;
+}
+
+a {
+    color: #a75c9a;
+}
+
+a:hover {
+    color: #c77eb7;
+    text-decoration: underline;
 }
