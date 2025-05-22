@@ -26,6 +26,8 @@ body {
     max-width: 1300px;
     margin: 5px auto;
     padding: 2px;
+    text-align: justify; /* Justifica o texto */
+    line-height: 1.5; /* Define espaçamento entre linhas */
 
 }
 
